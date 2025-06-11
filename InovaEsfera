@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>InovaEsfera - Blog de Notícias Criciúma x Vila Nova</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 15px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 15px;
+      background: white;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    article {
+      margin-bottom: 40px;
+    }
+    article h2 {
+      color: #003366;
+      margin-top: 0;
+    }
+    article img {
+      max-width: 100%;
+      height: auto;
+      margin: 15px 0;
+      border-radius: 5px;
+    }
+    .ad-banner {
+      background: #ddd;
+      text-align: center;
+      padding: 20px;
+      margin: 25px 0;
+      border: 2px dashed #aaa;
+      font-weight: bold;
+      color: #555;
+    }
+    footer {
+      text-align: center;
+      padding: 15px 10px;
+      background: #003366;
+      color: white;
+      font-size: 0.9em;
+    }
+    @media (max-width: 600px) {
+      main {
+        margin: 10px;
+      }
+      .ad-banner {
+        padding: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>InovaEsfera</h1>
+  </header>
+
+  <main>
+    <!-- Espaço para anúncio topo -->
+    <div class="ad-banner" id="ad-top">
+      Espaço para anúncio Google AdSense (Top Banner)
+    </div>
+
+    <article>
+      <h2>Resumo do jogo Criciúma x Vila Nova</h2>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Criciuma_Esporte_Clube_Logo.svg/1200px-Criciuma_Esporte_Clube_Logo.svg.png" alt="Logo Criciúma" />
+      <p>O duelo entre Criciúma e Vila Nova foi marcado por muita emoção, com jogadas decisivas e uma torcida apaixonada. As equipes entraram em campo buscando a vitória para subir na tabela.</p>
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Vila_Nova_Futebol_Clube_Logo.svg/1200px-Vila_Nova_Futebol_Clube_Logo.svg.png" alt="Logo Vila Nova" />
+      <p>O Vila Nova mostrou um futebol consistente, tentando controlar o meio de campo e criar oportunidades claras de gol. O Criciúma, por sua vez, apostou na velocidade pelos lados do campo.</p>
+      
+      <p>Confira os melhores momentos e análises do jogo abaixo.</p>
+    </article>
+
+    <!-- Espaço para anúncio entre o conteúdo -->
+    <div class="ad-banner" id="ad-middle">
+      Espaço para anúncio Google AdSense (Banner intermediário)
+    </div>
+
+    <article>
+      <h2>Detalhes da partida e estatísticas</h2>
+      <p>O placar final foi apertado, com destaque para as defesas dos goleiros e a atuação dos meio-campistas. Ambos os times mostraram garra e disposição, deixando o público empolgado até o apito final.</p>
+      <ul>
+        <li>Data do jogo: 10 de junho de 2025</li>
+        <li>Local: Estádio Heriberto Hülse (Criciúma)</li>
+        <li>Placar: Criciúma 2 x 1 Vila Nova</li>
+      </ul>
+    </article>
+
+    <!-- Espaço para anúncio rodapé -->
+    <div class="ad-banner" id="ad-bottom">
+      Espaço para anúncio Google AdSense (Banner rodapé)
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 InovaEsfera. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
